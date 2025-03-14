@@ -1,0 +1,18 @@
+header{
+    display: flex;
+    gap: 100px;
+    background-color: #e8f1f2;
+}
+header,img{
+    margin: 15px;
+    padding: 5px;
+}
+header, h3{
+    margin-top: 50px;
+}
+
+nav, li{
+    display: inline-flex;
+    gap: 100px;
+}
+
